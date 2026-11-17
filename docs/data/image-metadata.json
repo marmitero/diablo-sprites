@@ -1,0 +1,1226 @@
+[
+  {
+    "path": "sprites/Animais/Bat.png",
+    "width": 311,
+    "height": 271,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Bird.png",
+    "width": 223,
+    "height": 152,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Camel.png",
+    "width": 1512,
+    "height": 2746,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Chicken.png",
+    "width": 576,
+    "height": 1190,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Cobra.png",
+    "width": 722,
+    "height": 214,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Cow.png",
+    "width": 1230,
+    "height": 2290,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Crab.png",
+    "width": 405,
+    "height": 519,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Fly.png",
+    "width": 493,
+    "height": 47,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Larvae.png",
+    "width": 820,
+    "height": 784,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Maggot.png",
+    "width": 343,
+    "height": 532,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Parrot.png",
+    "width": 575,
+    "height": 330,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Rabbit.png",
+    "width": 327,
+    "height": 180,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Rat.png",
+    "width": 173,
+    "height": 276,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Scarabs.png",
+    "width": 404,
+    "height": 156,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Scorpion.png",
+    "width": 296,
+    "height": 174,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Animais/Spider.png",
+    "width": 355,
+    "height": 376,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Amazon (Heavy).gif",
+    "width": 2255,
+    "height": 5987,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Amazon (Light).gif",
+    "width": 2578,
+    "height": 6403,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Assassin (Heavy).gif",
+    "width": 1410,
+    "height": 12404,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Assassin (Light).gif",
+    "width": 1350,
+    "height": 11972,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Assassin (Medium).gif",
+    "width": 1682,
+    "height": 9617,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Barbarian (Heavy).gif",
+    "width": 4189,
+    "height": 10496,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Barbarian (Light).gif",
+    "width": 3357,
+    "height": 11645,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Barbarian (Medium).gif",
+    "width": 3987,
+    "height": 8627,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Druid (Heavy).gif",
+    "width": 3384,
+    "height": 7172,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Druid (Light).gif",
+    "width": 2807,
+    "height": 4328,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Druid (Medium).gif",
+    "width": 2993,
+    "height": 6132,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Necromancer (Heavy).gif",
+    "width": 3940,
+    "height": 9264,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Necromancer (Light).gif",
+    "width": 3258,
+    "height": 6019,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Necromancer (Medium).gif",
+    "width": 3054,
+    "height": 7616,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Paladin (Heavy, Heraldic Shield).gif",
+    "width": 2700,
+    "height": 11357,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Paladin (Heavy, Tower Shield).gif",
+    "width": 2700,
+    "height": 11437,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Paladin (Light).gif",
+    "width": 2370,
+    "height": 10221,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Paladin (Medium).gif",
+    "width": 2700,
+    "height": 11277,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Sorceress (Heavy).gif",
+    "width": 3179,
+    "height": 6739,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Classes/Sorceress (Light).gif",
+    "width": 2605,
+    "height": 6736,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Abominable.png",
+    "width": 3616,
+    "height": 4552,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Altar.png",
+    "width": 5861,
+    "height": 1789,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Andariel.png",
+    "width": 5282,
+    "height": 8127,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Baal's Minion (Light Weaponless).png",
+    "width": 4045,
+    "height": 4929,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Baboon Demon.gif",
+    "width": 3374,
+    "height": 4259,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Balrog (Saber).png",
+    "width": 7855,
+    "height": 4880,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Balrog (Sickle Sword).png",
+    "width": 7855,
+    "height": 4880,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Balrog (Sword).png",
+    "width": 7855,
+    "height": 4880,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Balrog (Weaponless).png",
+    "width": 7855,
+    "height": 4880,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Balrog (Wide Sword).png",
+    "width": 7855,
+    "height": 4880,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Blood Hawk Nest.png",
+    "width": 4348,
+    "height": 804,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Blood Hawk.gif",
+    "width": 2714,
+    "height": 1911,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Blood Lord.png",
+    "width": 9219,
+    "height": 3733,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Blunderbore.gif",
+    "width": 8540,
+    "height": 3401,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Bone Fetish (Knife).png",
+    "width": 2246,
+    "height": 2240,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Bone Fetish (Spear).png",
+    "width": 2246,
+    "height": 2240,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Carniflower.png",
+    "width": 3437,
+    "height": 2661,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Catapult.png",
+    "width": 7895,
+    "height": 1969,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Council Member.gif",
+    "width": 3610,
+    "height": 3038,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Death Mauler.png",
+    "width": 5269,
+    "height": 4417,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Demon Imp.png",
+    "width": 3840,
+    "height": 8820,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Desert Wing.png",
+    "width": 2577,
+    "height": 10544,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Diablo.png",
+    "width": 6798,
+    "height": 18841,
+    "mode": "P",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Inimigos/Duriel.png",
+    "width": 6651,
+    "height": 6865,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Akara.png",
+    "width": 352,
+    "height": 1225,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Alkor.png",
+    "width": 978,
+    "height": 1860,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Anya.png",
+    "width": 919,
+    "height": 758,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Asheara.png",
+    "width": 3339,
+    "height": 1185,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Atma.png",
+    "width": 2916,
+    "height": 685,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Cameos.png",
+    "width": 757,
+    "height": 735,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Charsi.png",
+    "width": 900,
+    "height": 1130,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Deckard Cain.png",
+    "width": 1329,
+    "height": 702,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Drognan.png",
+    "width": 841,
+    "height": 1849,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Elzix.png",
+    "width": 337,
+    "height": 1393,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Fara.png",
+    "width": 821,
+    "height": 1697,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Geglash.png",
+    "width": 920,
+    "height": 724,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Gheed.png",
+    "width": 551,
+    "height": 564,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Greiz.png",
+    "width": 393,
+    "height": 1449,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Hadriel.png",
+    "width": 1873,
+    "height": 228,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Halbu.png",
+    "width": 1020,
+    "height": 1164,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Hratli.png",
+    "width": 465,
+    "height": 1145,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Izual's Spirit.png",
+    "width": 4661,
+    "height": 835,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Jamella.png",
+    "width": 1361,
+    "height": 3040,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Jerhyn.png",
+    "width": 502,
+    "height": 580,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Kashya.png",
+    "width": 361,
+    "height": 1257,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Kurast Docks Men.png",
+    "width": 3341,
+    "height": 7896,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Larzuk.png",
+    "width": 1619,
+    "height": 1056,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Lut Gholein Guard (Light).png",
+    "width": 4853,
+    "height": 6156,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Lut Gholein Men.png",
+    "width": 2925,
+    "height": 3947,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Lut Gholein Women.png",
+    "width": 2188,
+    "height": 2962,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Lysander.png",
+    "width": 473,
+    "height": 1417,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Malah.png",
+    "width": 529,
+    "height": 1386,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Man in Coat (Black & Brown).png",
+    "width": 509,
+    "height": 261,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Meshif.png",
+    "width": 752,
+    "height": 668,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Nihlathak.png",
+    "width": 497,
+    "height": 1549,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Ormus.png",
+    "width": 2558,
+    "height": 960,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Qual-Kehk.png",
+    "width": 1001,
+    "height": 1679,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Rogue Mercenary.png",
+    "width": 1616,
+    "height": 2644,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/The Dark Wanderer.png",
+    "width": 3476,
+    "height": 1010,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Traders.png",
+    "width": 982,
+    "height": 347,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Valkyrie.png",
+    "width": 3401,
+    "height": 1505,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Warriv (Act 1).png",
+    "width": 1885,
+    "height": 596,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Npcs/Warriv (Act 2).png",
+    "width": 1020,
+    "height": 976,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Altar (Secret Passage).png",
+    "width": 926,
+    "height": 285,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Altar.png",
+    "width": 1013,
+    "height": 214,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Arcane Sanctuary Teleporter 1.png",
+    "width": 1381,
+    "height": 763,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Banner.png",
+    "width": 591,
+    "height": 302,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Barrel.png",
+    "width": 1321,
+    "height": 494,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Blood Pool.png",
+    "width": 683,
+    "height": 85,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Blood Vassel.png",
+    "width": 451,
+    "height": 79,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Desert Water Source.png",
+    "width": 1241,
+    "height": 330,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Escaping Spirit.png",
+    "width": 11360,
+    "height": 2457,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Fire (Large).png",
+    "width": 2381,
+    "height": 416,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Fire (Small).png",
+    "width": 872,
+    "height": 1234,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Fire Trap.png",
+    "width": 6661,
+    "height": 4042,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Fireplace 01.png",
+    "width": 581,
+    "height": 88,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Fireplace 02.png",
+    "width": 581,
+    "height": 124,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Fireplace 03.png",
+    "width": 861,
+    "height": 259,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Floor Seal.png",
+    "width": 4313,
+    "height": 3269,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Fog.png",
+    "width": 2421,
+    "height": 474,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Objects/Teleporter 3.png",
+    "width": 2131,
+    "height": 1414,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Body Light (Unused).png",
+    "width": 6673,
+    "height": 4906,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Body Light.png",
+    "width": 6871,
+    "height": 6132,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Body Medium (Unused).png",
+    "width": 6467,
+    "height": 3680,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Body Medium.png",
+    "width": 6871,
+    "height": 4906,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Bow (Large).png",
+    "width": 6871,
+    "height": 4906,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Bow (Small).png",
+    "width": 6871,
+    "height": 4906,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Head Light.png",
+    "width": 6871,
+    "height": 4906,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Head Medium.png",
+    "width": 6871,
+    "height": 4906,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Left Hand.png",
+    "width": 6871,
+    "height": 4906,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Left Pauldron Light.png",
+    "width": 6871,
+    "height": 4906,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Left Pauldron Medium.png",
+    "width": 6871,
+    "height": 4906,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Right Hand.png",
+    "width": 6871,
+    "height": 4906,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Right Pauldron Light.png",
+    "width": 6871,
+    "height": 4906,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Parts/Rogue Parts/Rogue Parts - Rogue Right Pauldron Medium.png",
+    "width": 6871,
+    "height": 4906,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Barracks Floor.png",
+    "width": 800,
+    "height": 652,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Barracks.png",
+    "width": 1672,
+    "height": 1546,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Catacomb.png",
+    "width": 4640,
+    "height": 962,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Catacombs Floor.png",
+    "width": 800,
+    "height": 1220,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Cathedral Floor.png",
+    "width": 800,
+    "height": 893,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Cathedral.png",
+    "width": 3200,
+    "height": 1440,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Cave Floor.png",
+    "width": 800,
+    "height": 3852,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Caves.png",
+    "width": 640,
+    "height": 771,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Court Floor.png",
+    "width": 800,
+    "height": 1846,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Court Wall.png",
+    "width": 4960,
+    "height": 994,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Crypt Floor.png",
+    "width": 800,
+    "height": 479,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Crypt Wall.png",
+    "width": 4160,
+    "height": 288,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Graveyard Ground.png",
+    "width": 800,
+    "height": 479,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Graveyard.png",
+    "width": 5920,
+    "height": 833,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Monastery Floor.png",
+    "width": 800,
+    "height": 79,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Monastery Walls.png",
+    "width": 8800,
+    "height": 640,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Outdoor Floor.png",
+    "width": 1601,
+    "height": 4768,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Outdoor.png",
+    "width": 3200,
+    "height": 5582,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Town Floor.png",
+    "width": 800,
+    "height": 2959,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Town Objects.png",
+    "width": 5760,
+    "height": 2502,
+    "mode": "RGBA",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Tristram Ground.png",
+    "width": 800,
+    "height": 959,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  },
+  {
+    "path": "sprites/Tiles/Act 1/Tristram Walls.png",
+    "width": 5280,
+    "height": 1346,
+    "mode": "RGB",
+    "frames": 1,
+    "info": {}
+  }
+]

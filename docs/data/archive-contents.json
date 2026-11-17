@@ -1,0 +1,247 @@
+[
+  {
+    "path": "docs/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "docs/ARCHITECTURE.md",
+    "bytes": 6172,
+    "directory": false
+  },
+  {
+    "path": "docs/ASSETS.md",
+    "bytes": 3457,
+    "directory": false
+  },
+  {
+    "path": "docs/CONTENT.md",
+    "bytes": 5807,
+    "directory": false
+  },
+  {
+    "path": "docs/GDD.md",
+    "bytes": 6025,
+    "directory": false
+  },
+  {
+    "path": "docs/README.md",
+    "bytes": 1474,
+    "directory": false
+  },
+  {
+    "path": "docs/ROADMAP.md",
+    "bytes": 1657,
+    "directory": false
+  },
+  {
+    "path": "drizzle.config.json",
+    "bytes": 156,
+    "directory": false
+  },
+  {
+    "path": "eslint.config.mjs",
+    "bytes": 365,
+    "directory": false
+  },
+  {
+    "path": "next.config.ts",
+    "bytes": 104,
+    "directory": false
+  },
+  {
+    "path": "package.json",
+    "bytes": 743,
+    "directory": false
+  },
+  {
+    "path": "postcss.config.mjs",
+    "bytes": 108,
+    "directory": false
+  },
+  {
+    "path": "src/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/app/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/app/api/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/app/api/deeds/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/app/api/deeds/route.ts",
+    "bytes": 1161,
+    "directory": false
+  },
+  {
+    "path": "src/app/api/health/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/app/api/health/route.ts",
+    "bytes": 295,
+    "directory": false
+  },
+  {
+    "path": "src/app/api/saves/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/app/api/saves/route.ts",
+    "bytes": 2011,
+    "directory": false
+  },
+  {
+    "path": "src/app/globals.css",
+    "bytes": 23,
+    "directory": false
+  },
+  {
+    "path": "src/app/layout.tsx",
+    "bytes": 529,
+    "directory": false
+  },
+  {
+    "path": "src/app/page.tsx",
+    "bytes": 115,
+    "directory": false
+  },
+  {
+    "path": "src/components/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/components/GameCanvas.tsx",
+    "bytes": 910,
+    "directory": false
+  },
+  {
+    "path": "src/db/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/db/index.ts",
+    "bytes": 547,
+    "directory": false
+  },
+  {
+    "path": "src/db/schema.ts",
+    "bytes": 1212,
+    "directory": false
+  },
+  {
+    "path": "src/game/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/game/Game.ts",
+    "bytes": 9378,
+    "directory": false
+  },
+  {
+    "path": "src/game/core/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/game/core/assets.ts",
+    "bytes": 18281,
+    "directory": false
+  },
+  {
+    "path": "src/game/core/audio.ts",
+    "bytes": 14729,
+    "directory": false
+  },
+  {
+    "path": "src/game/core/rng.ts",
+    "bytes": 2645,
+    "directory": false
+  },
+  {
+    "path": "src/game/core/ui.ts",
+    "bytes": 12834,
+    "directory": false
+  },
+  {
+    "path": "src/game/data/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/game/data/acts.ts",
+    "bytes": 28343,
+    "directory": false
+  },
+  {
+    "path": "src/game/data/classes.ts",
+    "bytes": 9476,
+    "directory": false
+  },
+  {
+    "path": "src/game/data/items.ts",
+    "bytes": 9478,
+    "directory": false
+  },
+  {
+    "path": "src/game/scenes/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/game/scenes/cutscene.ts",
+    "bytes": 11343,
+    "directory": false
+  },
+  {
+    "path": "src/game/scenes/menu.ts",
+    "bytes": 19294,
+    "directory": false
+  },
+  {
+    "path": "src/game/scenes/play.ts",
+    "bytes": 72730,
+    "directory": false
+  },
+  {
+    "path": "src/game/scenes/playUI.ts",
+    "bytes": 41665,
+    "directory": false
+  },
+  {
+    "path": "src/game/world/",
+    "bytes": 0,
+    "directory": true
+  },
+  {
+    "path": "src/game/world/entities.ts",
+    "bytes": 5679,
+    "directory": false
+  },
+  {
+    "path": "src/game/world/mapgen.ts",
+    "bytes": 16804,
+    "directory": false
+  },
+  {
+    "path": "tsconfig.json",
+    "bytes": 723,
+    "directory": false
+  }
+]
