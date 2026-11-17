@@ -86,3 +86,7 @@ Para desenvolver um pacote comparável, controlar câmera, escala, silhueta, luz
 O repositório é público; isso descreve acesso, não uma licença dos sprites da Blizzard. No snapshot auditado não há arquivo de licença, identificação do extrator original ou autorização de treinamento. Algumas folhas têm créditos embutidos como “SUTINOER” e “ripped by napalm”; devem ser preservados nos originais e registrados na proveniência. Não atribuímos autoria deste material ao organizador do repositório nem adicionamos uma licença permissiva aos assets. Registrar a base de uso aplicável é uma etapa de preparação do corpus; detalhes em [SOURCES.md](docs/SOURCES.md).
 
 **Estado atual:** inventário técnico integral e guia publicados; exemplos selecionados com coordenadas verificadas. A anotação completa das poses, direções absolutas, tempos nativos e eventos de cada folha permanece uma etapa explícita, não uma propriedade presumida dos arquivos.
+
+## Projeto original — Lycan
+
+[Classe Lycan](projeto/Classes/Lycan/README.md): identidade, Idle e Walk recuperados, prompts disponíveis, manifesto e 16 GIFs de inspeção. Desenvolvimento dividido em [checkpoints pequenos](projeto/Classes/Lycan/docs/ROADMAP.md), com [estado de retomada](projeto/Classes/Lycan/AI_STATE.md). Fontes preservadas; aprovação artística e temporal pendente. Próximo: CP3 — revisar Walk E.

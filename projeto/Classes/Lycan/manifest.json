@@ -1,0 +1,1411 @@
+{
+  "schema_version": 1,
+  "views": [
+    "S",
+    "SW",
+    "W",
+    "NW",
+    "N",
+    "NE",
+    "E",
+    "SE"
+  ],
+  "timing_note": "120 ms por frame apenas para inspeção; não é timing nativo.",
+  "rect_note": "Partição proporcional aproximada; sem realinhar silhuetas; revisar antes de engine.",
+  "assets": [
+    {
+      "path": "arte/lycan-turnaround-v1.png",
+      "sha256": "8919105fca027e33fe65971a992c119850c608b04f216400635cceacac3deeaa",
+      "size": [
+        1774,
+        887
+      ],
+      "columns": 4,
+      "rows": 2,
+      "status": "recovered_unapproved",
+      "alpha_ready": false,
+      "frames": [
+        {
+          "row": 0,
+          "column": 0,
+          "view": "S",
+          "rect": [
+            0,
+            0,
+            443,
+            443
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "view": "SW",
+          "rect": [
+            443,
+            0,
+            444,
+            443
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "view": "W",
+          "rect": [
+            887,
+            0,
+            443,
+            443
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 3,
+          "view": "NW",
+          "rect": [
+            1330,
+            0,
+            444,
+            443
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "view": "N",
+          "rect": [
+            0,
+            443,
+            443,
+            444
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "view": "NE",
+          "rect": [
+            443,
+            443,
+            444,
+            444
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "view": "E",
+          "rect": [
+            887,
+            443,
+            443,
+            444
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 3,
+          "view": "SE",
+          "rect": [
+            1330,
+            443,
+            444,
+            444
+          ],
+          "pivot": null,
+          "events": []
+        }
+      ]
+    },
+    {
+      "path": "arte/lycan-idle-v1.png",
+      "sha256": "eedff85561208424741208e1c0a048352db7fea3ea62b2d67dc2d52554df7be2",
+      "size": [
+        1024,
+        1536
+      ],
+      "columns": 4,
+      "rows": 8,
+      "status": "recovered_unapproved",
+      "alpha_ready": false,
+      "frames": [
+        {
+          "row": 0,
+          "column": 0,
+          "view": "S",
+          "rect": [
+            0,
+            0,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "view": "S",
+          "rect": [
+            256,
+            0,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "view": "S",
+          "rect": [
+            512,
+            0,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 3,
+          "view": "S",
+          "rect": [
+            768,
+            0,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "view": "SW",
+          "rect": [
+            0,
+            192,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "view": "SW",
+          "rect": [
+            256,
+            192,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "view": "SW",
+          "rect": [
+            512,
+            192,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 3,
+          "view": "SW",
+          "rect": [
+            768,
+            192,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "view": "W",
+          "rect": [
+            0,
+            384,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "view": "W",
+          "rect": [
+            256,
+            384,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "view": "W",
+          "rect": [
+            512,
+            384,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 2,
+          "column": 3,
+          "view": "W",
+          "rect": [
+            768,
+            384,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "view": "NW",
+          "rect": [
+            0,
+            576,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "view": "NW",
+          "rect": [
+            256,
+            576,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "view": "NW",
+          "rect": [
+            512,
+            576,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 3,
+          "column": 3,
+          "view": "NW",
+          "rect": [
+            768,
+            576,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 4,
+          "column": 0,
+          "view": "N",
+          "rect": [
+            0,
+            768,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 4,
+          "column": 1,
+          "view": "N",
+          "rect": [
+            256,
+            768,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 4,
+          "column": 2,
+          "view": "N",
+          "rect": [
+            512,
+            768,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 4,
+          "column": 3,
+          "view": "N",
+          "rect": [
+            768,
+            768,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 5,
+          "column": 0,
+          "view": "NE",
+          "rect": [
+            0,
+            960,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 5,
+          "column": 1,
+          "view": "NE",
+          "rect": [
+            256,
+            960,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 5,
+          "column": 2,
+          "view": "NE",
+          "rect": [
+            512,
+            960,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 5,
+          "column": 3,
+          "view": "NE",
+          "rect": [
+            768,
+            960,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 6,
+          "column": 0,
+          "view": "E",
+          "rect": [
+            0,
+            1152,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 6,
+          "column": 1,
+          "view": "E",
+          "rect": [
+            256,
+            1152,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 6,
+          "column": 2,
+          "view": "E",
+          "rect": [
+            512,
+            1152,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 6,
+          "column": 3,
+          "view": "E",
+          "rect": [
+            768,
+            1152,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 7,
+          "column": 0,
+          "view": "SE",
+          "rect": [
+            0,
+            1344,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 7,
+          "column": 1,
+          "view": "SE",
+          "rect": [
+            256,
+            1344,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 7,
+          "column": 2,
+          "view": "SE",
+          "rect": [
+            512,
+            1344,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 7,
+          "column": 3,
+          "view": "SE",
+          "rect": [
+            768,
+            1344,
+            256,
+            192
+          ],
+          "pivot": null,
+          "events": []
+        }
+      ]
+    },
+    {
+      "path": "arte/lycan-walk-v1.png",
+      "sha256": "dda780d451844b1f3088481235058c740947ce8556a5a73445f0de5a2a0c6364",
+      "size": [
+        1254,
+        1254
+      ],
+      "columns": 8,
+      "rows": 8,
+      "status": "recovered_unapproved",
+      "alpha_ready": false,
+      "frames": [
+        {
+          "row": 0,
+          "column": 0,
+          "view": "S",
+          "rect": [
+            0,
+            0,
+            156,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "view": "S",
+          "rect": [
+            156,
+            0,
+            157,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "view": "S",
+          "rect": [
+            313,
+            0,
+            157,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 3,
+          "view": "S",
+          "rect": [
+            470,
+            0,
+            157,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 4,
+          "view": "S",
+          "rect": [
+            627,
+            0,
+            156,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 5,
+          "view": "S",
+          "rect": [
+            783,
+            0,
+            157,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 6,
+          "view": "S",
+          "rect": [
+            940,
+            0,
+            157,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 0,
+          "column": 7,
+          "view": "S",
+          "rect": [
+            1097,
+            0,
+            157,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "view": "SW",
+          "rect": [
+            0,
+            156,
+            156,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "view": "SW",
+          "rect": [
+            156,
+            156,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "view": "SW",
+          "rect": [
+            313,
+            156,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 3,
+          "view": "SW",
+          "rect": [
+            470,
+            156,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 4,
+          "view": "SW",
+          "rect": [
+            627,
+            156,
+            156,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 5,
+          "view": "SW",
+          "rect": [
+            783,
+            156,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 6,
+          "view": "SW",
+          "rect": [
+            940,
+            156,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 1,
+          "column": 7,
+          "view": "SW",
+          "rect": [
+            1097,
+            156,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "view": "W",
+          "rect": [
+            0,
+            313,
+            156,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "view": "W",
+          "rect": [
+            156,
+            313,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "view": "W",
+          "rect": [
+            313,
+            313,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 2,
+          "column": 3,
+          "view": "W",
+          "rect": [
+            470,
+            313,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 2,
+          "column": 4,
+          "view": "W",
+          "rect": [
+            627,
+            313,
+            156,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 2,
+          "column": 5,
+          "view": "W",
+          "rect": [
+            783,
+            313,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 2,
+          "column": 6,
+          "view": "W",
+          "rect": [
+            940,
+            313,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 2,
+          "column": 7,
+          "view": "W",
+          "rect": [
+            1097,
+            313,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "view": "NW",
+          "rect": [
+            0,
+            470,
+            156,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "view": "NW",
+          "rect": [
+            156,
+            470,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "view": "NW",
+          "rect": [
+            313,
+            470,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 3,
+          "column": 3,
+          "view": "NW",
+          "rect": [
+            470,
+            470,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 3,
+          "column": 4,
+          "view": "NW",
+          "rect": [
+            627,
+            470,
+            156,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 3,
+          "column": 5,
+          "view": "NW",
+          "rect": [
+            783,
+            470,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 3,
+          "column": 6,
+          "view": "NW",
+          "rect": [
+            940,
+            470,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 3,
+          "column": 7,
+          "view": "NW",
+          "rect": [
+            1097,
+            470,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 4,
+          "column": 0,
+          "view": "N",
+          "rect": [
+            0,
+            627,
+            156,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 4,
+          "column": 1,
+          "view": "N",
+          "rect": [
+            156,
+            627,
+            157,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 4,
+          "column": 2,
+          "view": "N",
+          "rect": [
+            313,
+            627,
+            157,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 4,
+          "column": 3,
+          "view": "N",
+          "rect": [
+            470,
+            627,
+            157,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 4,
+          "column": 4,
+          "view": "N",
+          "rect": [
+            627,
+            627,
+            156,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 4,
+          "column": 5,
+          "view": "N",
+          "rect": [
+            783,
+            627,
+            157,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 4,
+          "column": 6,
+          "view": "N",
+          "rect": [
+            940,
+            627,
+            157,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 4,
+          "column": 7,
+          "view": "N",
+          "rect": [
+            1097,
+            627,
+            157,
+            156
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 5,
+          "column": 0,
+          "view": "NE",
+          "rect": [
+            0,
+            783,
+            156,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 5,
+          "column": 1,
+          "view": "NE",
+          "rect": [
+            156,
+            783,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 5,
+          "column": 2,
+          "view": "NE",
+          "rect": [
+            313,
+            783,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 5,
+          "column": 3,
+          "view": "NE",
+          "rect": [
+            470,
+            783,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 5,
+          "column": 4,
+          "view": "NE",
+          "rect": [
+            627,
+            783,
+            156,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 5,
+          "column": 5,
+          "view": "NE",
+          "rect": [
+            783,
+            783,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 5,
+          "column": 6,
+          "view": "NE",
+          "rect": [
+            940,
+            783,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 5,
+          "column": 7,
+          "view": "NE",
+          "rect": [
+            1097,
+            783,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 6,
+          "column": 0,
+          "view": "E",
+          "rect": [
+            0,
+            940,
+            156,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 6,
+          "column": 1,
+          "view": "E",
+          "rect": [
+            156,
+            940,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 6,
+          "column": 2,
+          "view": "E",
+          "rect": [
+            313,
+            940,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 6,
+          "column": 3,
+          "view": "E",
+          "rect": [
+            470,
+            940,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 6,
+          "column": 4,
+          "view": "E",
+          "rect": [
+            627,
+            940,
+            156,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 6,
+          "column": 5,
+          "view": "E",
+          "rect": [
+            783,
+            940,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 6,
+          "column": 6,
+          "view": "E",
+          "rect": [
+            940,
+            940,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 6,
+          "column": 7,
+          "view": "E",
+          "rect": [
+            1097,
+            940,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 7,
+          "column": 0,
+          "view": "SE",
+          "rect": [
+            0,
+            1097,
+            156,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 7,
+          "column": 1,
+          "view": "SE",
+          "rect": [
+            156,
+            1097,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 7,
+          "column": 2,
+          "view": "SE",
+          "rect": [
+            313,
+            1097,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 7,
+          "column": 3,
+          "view": "SE",
+          "rect": [
+            470,
+            1097,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 7,
+          "column": 4,
+          "view": "SE",
+          "rect": [
+            627,
+            1097,
+            156,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 7,
+          "column": 5,
+          "view": "SE",
+          "rect": [
+            783,
+            1097,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 7,
+          "column": 6,
+          "view": "SE",
+          "rect": [
+            940,
+            1097,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        },
+        {
+          "row": 7,
+          "column": 7,
+          "view": "SE",
+          "rect": [
+            1097,
+            1097,
+            157,
+            157
+          ],
+          "pivot": null,
+          "events": []
+        }
+      ]
+    }
+  ]
+}

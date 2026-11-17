@@ -1,0 +1,15 @@
+Use case: stylized-concept. Technical GAME SPRITE SHEET, IDLE ANIMATION.
+Reference image is IDENTITY reference ONLY: same original Lycan werewolf, dark charcoal-brown coarse fur, silver-gray mane and shoulders, brown muscular chest, amber eyes, torn leather waistcloth and simple belt, long lupine muzzle, pointed ears, digitigrade hocks and paws, short thick tail. Keep proportions exact, no new accessories.
+Create EXACTLY 4 columns and 8 rows = 32 separate FULL BODY small raster GAME SPRITES, NOT concept illustrations. Each equal 192x192 logical cell within a 768x1536 sheet if possible, or proportionally equivalent. Each creature occupies only about 65% of the cell height, with generous margin and feet at same baseline. Flat uniform #FF0099 magenta, no text, no labels, no grid, no borders, no scenery.
+Style: miniature detailed prerendered-3D sprites as in classic Diablo II-era ARPGs, visibly raster game assets at native approximately110px body height, crisp pixel clusters and controlled texture, low-resolution naturalistic monster, NOT chibi, NOT cartoon, NOT big painted character illustration. Fixed orthographic elevated camera, looking DOWN about30degrees; top of shoulders and paw surfaces visible, NOT eye-level side-on. Upper-left-screen lighting consistent in all views.
+EVERY ROW is one view, EVERY COLUMN is successive time in a subtle breathing IDLE loop. Exact top-to-bottom views:
+row1 SOUTH front;
+row2 SOUTHWEST front-left;
+row3 WEST screen-left profile;
+row4 NORTHWEST back-left;
+row5 NORTH back;
+row6 NORTHEAST back-right;
+row7 EAST screen-right profile;
+row8 SOUTHEAST front-right.
+All FOUR frames in a row face the SAME direction. The four phases: neutral, chest slightly inhale, full inhale subtle chest/shoulder lift, exhale back toward neutral. Paws planted in identical positions, no footstep, no head turn. Anatomical hands stay long and clawed; slight finger and ear movement. Breathing not whole-body translation. Back views hide the face/chest; far limbs obey occlusion. One tail only.
+Every sprite fits completely in its cell. No shadows extending outside cells. No extra poses or drawings. This is an animation production sheet, not a turnaround.
